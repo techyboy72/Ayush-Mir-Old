@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Slam](https://telegra.ph/file/95de3554392b8bbed98e0.jpg)](https://t.me/request_ayush)
 
 owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
@@ -227,15 +227,6 @@ where host is the name of extractor (eg. youtube, twitch). Multiple accounts of 
 ## Credits
 
 Thanks to:
-- [out386](https://github.com/out386) heavily inspired from telegram bot which is written in JS
-- [Izzy12](https://github.com/lzzy12/) for original repo
-- [Dank-del](https://github.com/Dank-del/) for base repo
-- [magneto261290](https://github.com/magneto261290/) for some features
-- [SVR666](https://github.com/SVR666/) for some fixes
-- [4amparaboy](https://github.com/4amparaboy/) for some help
-- [WinTenDev](https://github.com/WinTenDev/) for Uptobox support
-- [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
-- [ydner](https://github.com/ydner/) for Usage module
 - [breakdowns](https://github.com/breakdowns) idk
 
 
