@@ -1,14 +1,14 @@
 {
-    "name": "slam-mirrorbot ",
+    "name": "waris-mirrorbot ",
     "description": "Telegram mirror bot writen python",
-    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "logo": "https://telegra.ph/file/95de3554392b8bbed98e0.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
     "repository": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-    "website": "https://t.me/torrent_to_gdrive",
+    "website": "https://t.me/Teammoviezcinemas",
     "success_url": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/blob/master/README.md",
     "stack": "container",
     "env": {
