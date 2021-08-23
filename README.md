@@ -28,7 +28,7 @@ after this click on the below button 👇👇👇👇
 
 # 3) 👇👇👇👇👇
 
-[<img src="https://telegra.ph/file/e886a4c116ff6c47bcdfa.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
+[<img src="https://telegra.ph/file/2ec4fd99a5d718da899d0.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
 
 
 ## Features supported:
