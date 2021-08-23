@@ -556,9 +556,9 @@ class GoogleDriveHelper:
                     return "No Result Found ❌", None
                 for content in self.telegraph_content:
                     self.path.append(Telegraph(access_token=TELEGRAPH_TOKEN).create_page(
-                        title='Torrent To Gdrive',
-                        author_name='Torrent To Gdrive',
-                        author_url='https://t.me/Torrent_To_Gdrive',
+                        title='WarisMirrorBot',
+                        author_name='WarisMirrorBot',
+                        author_url='https://t.me/BotWarisAFK',
                         html_content=content
                     )['path'])
                 self.num_of_path = len(self.path)
