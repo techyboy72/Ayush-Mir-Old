@@ -19,7 +19,7 @@ after this click on the below button 👇👇👇👇
 
 # 1) 👇👇👇👇👇
 
-[<img src="https://telegra.ph/file/a55cd673bee2b8e23782c.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
+[<img src="https://telegra.ph/file/feb3ddac6946b4282cf6c.jpg" alt="screenshot"/>](https://t.me/AT_BOTS)
 
 # 2) 👇👇👇👇👇
 
